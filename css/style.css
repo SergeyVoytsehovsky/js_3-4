@@ -1,0 +1,13 @@
+.header {
+    text-align: center;
+}
+
+.list-item {
+    list-style-type: none;
+}
+
+.my-button {
+    margin-top: 50px;
+    background-color: #a2cd8b;
+    border: 1px solid #000;
+}
